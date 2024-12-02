@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.348f7b5d.css",
+    "main.js": "/static/js/main.581f16c9.js",
+    "static/js/453.0d4de43f.chunk.js": "/static/js/453.0d4de43f.chunk.js",
+    "static/media/shirts.jpg": "/static/media/shirts.bbc72b9b5ef2fa306808.jpg",
+    "static/media/dresses.jpg": "/static/media/dresses.30688c3b200699c37e0c.jpg",
+    "static/media/jeans.jpg": "/static/media/jeans.d6596947089b6bd3d21b.jpg",
+    "static/media/hero-img.jpg": "/static/media/hero-img.3a5eae375c567ec589d4.jpg",
+    "static/media/Inter-Bold.ttf": "/static/media/Inter-Bold.0eaf807b1cf0eceabe0f.ttf",
+    "static/media/Inter-Medium.ttf": "/static/media/Inter-Medium.3f7acfe50aad7ad68548.ttf",
+    "static/media/Inter-ExtraLight.ttf": "/static/media/Inter-ExtraLight.fbcf1d9ad9d7bac9f6de.ttf",
+    "static/media/Inter-Regular.ttf": "/static/media/Inter-Regular.9ca9ba81e9dcaa12b3a1.ttf",
+    "static/media/joggers.jpg": "/static/media/joggers.1dda80e4eb294fba0ff5.jpg",
+    "static/media/revicons.eot": "/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/revicons.woff": "/static/media/revicons.e8746a624ed098489406.woff",
+    "index.html": "/index.html",
+    "main.348f7b5d.css.map": "/static/css/main.348f7b5d.css.map",
+    "main.581f16c9.js.map": "/static/js/main.581f16c9.js.map",
+    "453.0d4de43f.chunk.js.map": "/static/js/453.0d4de43f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.348f7b5d.css",
+    "static/js/main.581f16c9.js"
+  ]
+}
